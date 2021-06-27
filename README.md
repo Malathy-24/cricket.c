@@ -2,6 +2,7 @@
 #include"welcome.h"
 #include"menu.h"
 #inlcude"newscoresheet.h"
+#inlcude"filling.h"
 #include"final.h"
 int main()
 {
